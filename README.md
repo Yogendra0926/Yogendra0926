@@ -66,6 +66,7 @@ I enjoy building practical projects using **Machine Learning, Deep Learning, Dat
 | ❤️ Heart Disease Prediction | ML model for heart disease prediction | Python, Scikit-Learn |
 | 📈 Bitcoin Price Prediction | ML-based price prediction system | Python, Random Forest |
 | 🧠 Smart EDA | Automated exploratory data analysis | Python, Pandas, Streamlit |
+| 🧠 Question-Answering chatbot | LLM based chatbot | Python, Langchain |
 
 ### 🌐 Full Stack
 
@@ -73,56 +74,16 @@ I enjoy building practical projects using **Machine Learning, Deep Learning, Dat
 |---|---|---|
 | 🎓 Student Portal | Student management system | Flask, MySQL, HTML/CSS |
 | 🏥 Hospital Management | Hospital management application | Flask, MySQL |
-| 🚗 Smart Parking | Parking management system | Python, Streamlit |
-
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yogendra0926&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra0926&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Yogendra0926&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yogendra0926&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Yogendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogendra0926&theme=tokyo-night)](https://github.com/Yogendra0926)
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/Yogendra0926">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/yogendra-jain-298239324/"/>
 </a>
-
 </p>
 
 ---
